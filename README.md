@@ -156,8 +156,8 @@ print(confusion_matrix(y_test,predictions))
 print(classification_report(y_test,predictions))
 ```
 
-<H3>Output:</H3>
-![Screenshot 2025-04-19 142458](https://github.com/user-attachments/assets/0db81f09-9640-4390-bc78-be13116d548d)
+## Output:
+![Screenshot 2025-04-19 142458](https://github.com/user-attachments/assets/42c4d17f-35af-4a55-9675-874851876bc4)
 
 
 
