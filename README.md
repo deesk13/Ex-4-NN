@@ -157,7 +157,8 @@ print(classification_report(y_test,predictions))
 ```
 
 <H3>Output:</H3>
-![Screenshot 2025-04-19 142458](https://github.com/user-attachments/assets/09194b85-dfe4-4f96-a3f7-aed72759a435)
+![Screenshot 2025-04-19 142458](https://github.com/user-attachments/assets/0db81f09-9640-4390-bc78-be13116d548d)
+
 
 
 <H3>Result:</H3>
